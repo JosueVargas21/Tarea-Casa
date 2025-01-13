@@ -1,2 +1,2 @@
 # Tarea-Casa
-Se Haran Realizaran diferentes pruebas
+Se Realizaran diferentes pruebas
