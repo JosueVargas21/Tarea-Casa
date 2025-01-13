@@ -1,2 +1,2 @@
 # Tarea-Casa
-Se Haran Direntes pruebas
+Se Haran Realizaran diferentes pruebas
